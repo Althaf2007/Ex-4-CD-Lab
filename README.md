@@ -2,7 +2,7 @@
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 # NAME : K.Mohamed Althaf
 # REG NO : 212224240089
-# Date: 28.05.26
+# Date: 22.05.26
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
 # ALGORITHM
